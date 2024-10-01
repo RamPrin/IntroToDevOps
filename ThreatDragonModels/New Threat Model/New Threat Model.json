@@ -19,16 +19,16 @@
         "cells": [
           {
             "position": {
-              "x": 165.99999999999932,
-              "y": 60.00000000000176
+              "x": 170,
+              "y": 60
             },
             "size": {
               "width": 660,
               "height": 250
             },
             "shape": "trust-boundary-box",
-            "id": "d6ed1765-46bd-4d7e-9ed1-d2b00ab072a2",
             "zIndex": -1,
+            "id": "d6ed1765-46bd-4d7e-9ed1-d2b00ab072a2",
             "data": {
               "type": "tm.BoundaryBox",
               "name": "Trust Boundary",
@@ -37,8 +37,8 @@
               "hasOpenThreats": false,
               "threatFrequency": {
                 "tampering": 0,
-                "informationDisclosure": 2,
-                "denialOfService": 0
+                "informationDisclosure": 3,
+                "denialOfService": 4
               }
             }
           },
@@ -60,8 +60,8 @@
             },
             "visible": true,
             "shape": "process",
-            "id": "e8c40eb8-bd70-4669-b5cf-7f964ca8e2c7",
             "zIndex": 1,
+            "id": "e8c40eb8-bd70-4669-b5cf-7f964ca8e2c7",
             "data": {
               "type": "tm.Process",
               "name": "Process",
@@ -121,8 +121,8 @@
             },
             "visible": true,
             "shape": "store",
-            "id": "a2820cfd-28a4-4e3d-8262-35af1cb42bb1",
             "zIndex": 2,
+            "id": "a2820cfd-28a4-4e3d-8262-35af1cb42bb1",
             "data": {
               "type": "tm.Store",
               "name": "Store",
